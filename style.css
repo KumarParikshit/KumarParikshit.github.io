@@ -4,5 +4,6 @@ body{
 .white-box {
     background-color: white;
     color: black;
-    <!--other positioning attributes-->
+    height: 50px;
+  width:50px
 }
